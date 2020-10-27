@@ -1,0 +1,20 @@
+{
+    "Author": "cmendibl3",
+    "ContentSize": 2179,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hdinsight-scale-horizontally/master/Scale-HDInsightClusterNodes.ps1",
+    "DownloadCount": 822,
+    "Id": "Scale-your-HDInsight-f57bb4d8",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 182,
+    "RaterCount": 3,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-7-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Scale-HDInsightClusterNodes is a simple PowerShell workflow runbook that will help you automate the process of scaling in or out your HDInsight clusters depending on your needs.The script receives 4 parameters:ResourceGroupName: The name of the resource group where the cluster re",
+    "Title": "HDInsight: Scale Horizontally",
+    "UpdatedDate": "2017-7-14T00:00:00",
+    "Url": "https://github.com/azureautomation/hdinsight-scale-horizontally",
+    "UserTags": "Microsoft Azure, Powershell, HDInsight"
+}
